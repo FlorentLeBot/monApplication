@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+a{
+  text-decoration: none;  
+}
+ul{
+    list-style-type: none;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+    width: 100%;
+}
+/* .para{
+    border: 1px solid black;
+}
+.title{
+    font-size: 4rem;
+} */
